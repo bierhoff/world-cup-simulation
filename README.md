@@ -1,2 +1,35 @@
 # world-cup-simulation
- Simulation of the 2022 world cup draw 
+
+![alt text](/images/image.jpg)
+
+This script simulates the draw of the 2022 soccer world cup. 
+
+
+## How to use
+
+### Set the virtual environment (optional)
+To set up the python environment, run the following commands
+
+```{bash}
+python -m venv venv
+pip install --upgrade pip # upgrade pip
+pip install -r requirements.txt
+```
+
+### Simulating the draw
+The **simulate.py** script will print the simulation of the draw in the console.
+
+```{python}
+python ./simulate.py
+```
+
+### Expected output
+
+![alt text](/images/example.jpg)
+
+
+
+
+
+
+
