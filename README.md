@@ -22,7 +22,6 @@ The **simulate.py** script will print the simulation of the draw in the console.
 ```{python}
 python ./simulate.py
 ```
-
 ### Expected output
 
 ![alt text](/images/example.jpg)
