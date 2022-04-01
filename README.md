@@ -24,8 +24,16 @@ python ./simulate.py
 ```
 ### Expected output
 
-![alt text](/images/example.jpg)
-
+```
+Group A:    Qatar                   Netherlands             Iran                    Tunisia
+Group B:    Serbia                  CONMEBOL - AFC Playoff  Argentina               Germany
+Group C:    Croatia                 Spain                   South Corea             CONCACAF - OFC Playoff
+Group D:    Uruguay                 Morocco                 UEFA Playoff            Belgium
+Group E:    Cameroon                Poland                  Denmark                 Portugal
+Group F:    France                  Mexico                  Saudi Arabia            Senegal
+Group G:    Canada                  Ecuador                 United States           Brasil
+Group H:    England                 Japan                   Ghana                   Switzerland
+```
 
 
 
